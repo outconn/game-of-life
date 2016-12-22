@@ -22,6 +22,7 @@ public enum Cell {
                 break;
             }
         }
+
         return cellRepresentedBySymbol;
     }
 
